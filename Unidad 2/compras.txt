@@ -2,3 +2,5 @@ manzanas
 frutillas 
 bananas 
 naranjas 
+pan
+galletitas 
